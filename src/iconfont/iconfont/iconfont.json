@@ -1,0 +1,44 @@
+{
+  "id": "4100050",
+  "name": "react1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1269",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8023418",
+      "name": "课耗管理",
+      "font_class": "kehaoguanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "10487550",
+      "name": "计划",
+      "font_class": "jihua",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "10520233",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "18298016",
+      "name": "我的日常",
+      "font_class": "woderichang",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    }
+  ]
+}

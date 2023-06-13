@@ -1,0 +1,15 @@
+.home_contain {
+  height: 100%;
+  width: 100%;
+}
+.home_contain .adm-tab-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.home_TabBar .iconfont {
+  font-size: 2rem;
+}
+.home_TabBar .iconfont .active {
+  color: green;
+}
